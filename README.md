@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a university student
+I'm a first year university student
 
 Interested in Software Development, AI/ML & Game Development.
 
@@ -20,4 +20,4 @@ A browser-based space survival asteroid shooting game built with JavaScript and 
 
 ### Current Focus
 
-Learning new technologies, building practical projects, and growing as a developer.
+Learning new technologies, trying to build more practical projects and growing as a developer.
