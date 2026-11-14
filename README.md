@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**elysianLens/elysianLens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a university student
 
-Here are some ideas to get you started:
+Interested in Software Development, AI/ML & Game Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning, building projects, and improving my problem-solving skills.
+
+### Tech Stack
+
+- **Languages:** C, JavaScript
+- **Web:** HTML, CSS
+- **Tools:** GitHub, VS Code, Vite, Phaser, Firebase
+- **Database:** MySQL
+
+### Featured Project
+
+**[SPACE-SURVIVOR](https://space-survivor-4c65b.web.app)** 
+A browser-based space survival asteroid shooting game built with JavaScript and Phaser.
+
+### Current Focus
+
+Learning new technologies, building practical projects, and growing as a developer.
