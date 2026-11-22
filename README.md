@@ -17,7 +17,6 @@ Currently learning, building projects, and improving my problem-solving skills.
 
 **[SPACE-SURVIVOR](https://space-survivor-4c65b.web.app)** 
 A browser-based space survival asteroid shooting game built with JavaScript and Phaser.
-(on-going)
 
 ### Current Focus
 
